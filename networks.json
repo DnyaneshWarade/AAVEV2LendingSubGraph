@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "AaveLendingPoolV2": {
+      "address": "0xC6845a5C768BF8D7681249f8927877Efda425baf",
+      "startBlock": 11362579
+    }
+  }
+}
